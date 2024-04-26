@@ -43,18 +43,6 @@
 
 
 // let input = "djsta'limldjaiorwgmNAJOTasoijmomisoijdsaoidjthemoisasdoonionbest";
-// let arr = input.split(" ");
-// let word = "NAJOT ta'lim is the best";
-// let new_arr = word.split(" ");
-// let result = []
-// // console.log(arr,new_arr);
-// for (let i = 0; i < new_arr.length; i++) {
-//     result.push(arr.slice(new_arr[0]))
-// }
-// console.log(result);
-
-
-// let input = "djsta'limldjaiorwgmNAJOTasoijmomisoijdsaoidjthemoisasdoonionbest";
 // let word = "NAJOT ta'lim is the best";
 // let result = []
 // let arr = input.slice(19,24)
